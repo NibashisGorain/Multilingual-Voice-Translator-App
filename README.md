@@ -1,3 +1,5 @@
+![App Screenshot](Screenshots/App_preview.png)
+
 # Multilingual Voice Translator Application
 
 A Python-based desktop application that converts spoken or typed input into translated text in multiple languages in real time. The application also supports speech output for translated text using text-to-speech functionality.
